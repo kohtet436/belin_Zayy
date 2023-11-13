@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327467783397",
+    "project_id": "bilin-zayy-c6d36",
+    "storage_bucket": "bilin-zayy-c6d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327467783397:android:2b36c4053916b2418a300c",
+        "android_client_info": {
+          "package_name": "com.example.belin_zayy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327467783397-31220m1dl8mof35db15n7pt29gcunes9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJMD_5b_EhE78JT33ilPvjqwPVLumaii0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327467783397-31220m1dl8mof35db15n7pt29gcunes9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
